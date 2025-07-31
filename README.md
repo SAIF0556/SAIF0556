@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at **LeapX.ai** as an SDE
  
- 🌱 I’m currently learning **Gen AI andSystem Design**
+ 🌱 I’m currently learning **Gen AI and System Design**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SAIF0556/SAIF0556/issues)**
 
