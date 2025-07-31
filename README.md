@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an Ed-Tech Project**
+ 🔭 I’m currently working at **LeapX.ai** as an SDE
  
- 🌱 I’m currently learning **Node.js, React, LMS**
+ 🌱 I’m currently learning **Gen AI andSystem Design**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SAIF0556/SAIF0556/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The term "bug" isn't just a metaphor. The very first "bug" was a real moth that got trapped inside the Harvard Mark II computer in 1947, causing a short circuit. Grace Hopper and her team found the moth, removed it, and taped it into their logbook with the note: "First actual case of bug being found.**
 
  </div>
  
